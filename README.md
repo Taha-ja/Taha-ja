@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm taha jaaouan</h1>
 <h3 align="center">A software engineer student</h3>
 
-- 🔭 I’m currently working on **angular application**
+- 🔭 I’m currently a fullstack developer intern
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m working with **Angular** && **ASP .Net**
 
-- 👯 I’m looking to collaborate on **backtend project**
+- 👯 I’m looking to collaborate on **fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taha-ja](https://github.com/Taha-ja)
 
