@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm taha jaaouan</h1>
 <h3 align="center">A software engineer student</h3>
 
-- 🔭 I’m currently a fullstack developer intern
+- 🔭 I’m currently a **fullstack developer intern**
 
 - 🌱 I’m working with **Angular** && **ASP .Net**
 
