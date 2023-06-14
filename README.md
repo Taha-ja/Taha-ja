@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **fullstack developer intern**
 
-- 🌱 I’m working with **Angular** && **ASP .Net**
+- 🌱 I’m working with **ASP .Net** && **Angular** && **Angular**
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
